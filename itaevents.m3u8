@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="http://clipart-library.com/images_k/spanish-flag-transparent/spanish-flag-transparent-14.png" group-title="Calcio", TF1 France
+#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20221230/original/pngtree-spain-flag-round-shape-png-image_8832627.png" group-title="Calcio", TF1 France
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-469.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="http://clipart-library.com/images_k/spanish-flag-transparent/spanish-flag-transparent-14.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20221230/original/pngtree-spain-flag-round-shape-png-image_8832627.png" group-title="Calcio", SuperSport Premier League
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.phpnicopr87&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sabalenka A. vs Swiatek I." tvg-name="15:00 WTA - ROLAND GARROS : Sabalenka A. vs Swiatek I. - 05/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Sabalenka%20A._vs_Swiatek%20I..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
@@ -302,7 +302,7 @@ https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.da
 #EXTINF:-1 tvg-id="WNBA - New York Liberty vs Washington Mystics" tvg-name="01:30 WNBA : New York Liberty vs Washington Mystics - 05/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/New%20York%20Liberty_vs_Washington%20Mystics.png" group-title="Basket", Monumental Sports Network
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-778.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Phoenix Mercury" tvg-name="04:00 WNBA : Golden State Valkyries W vs Phoenix Mercury - 05/06/25" tvg-logo="https://images.prismic.io/wnba/ZjVrS0MTzAJOCh36_gsv-logo-menu.png?auto=format,compress?auto=compress,format" group-title="Basket", WNBA League Pass
+#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Phoenix Mercury" tvg-name="04:00 WNBA : Golden State Valkyries W vs Phoenix Mercury - 05/06/25" tvg-logo="https://images.seeklogo.com/logo-png/53/2/golden-state-valkyries-logo-png_seeklogo-534305.png" group-title="Basket", WNBA League Pass
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10.phpnicopr87&redirect_stream=true
 
 #EXTINF:-1 tvg-id="NBA - Indiana Pacers vs Oklahoma City Thunder" tvg-name="02:30 NBA : Indiana Pacers vs Oklahoma City Thunder - 05/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Indiana%20Pacers_vs_Oklahoma%20City%20Thunder.png" group-title="Basket", Home Feed
@@ -413,10 +413,10 @@ https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.da
 #EXTINF:-1 tvg-id="Tour of Britain Cycling - Women's Stage 1" tvg-name="13:00 Tour of Britain Cycling : Women's Stage 1 - 05/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", TNT Sports 6 UK
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-212.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Belgium W vs Thailand W" tvg-name="10:00 Nations League Women : Belgium W vs Thailand W - 05/06/25" tvg-logo="https://logodetimes.com/times/belgica/selecao-belga-de-futebol-1536.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League Women - Belgium W vs Thailand W" tvg-name="10:00 Nations League Women : Belgium W vs Thailand W - 05/06/25" tvg-logo="https://logodix.com/logo/1691696.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Belgium W vs Thailand W" tvg-name="10:00 Nations League Women : Belgium W vs Thailand W - 05/06/25" tvg-logo="https://logodetimes.com/times/belgica/selecao-belga-de-futebol-1536.png" group-title="Pallavolo", Sportklub 1 Croatia
+#EXTINF:-1 tvg-id="Nations League Women - Belgium W vs Thailand W" tvg-name="10:00 Nations League Women : Belgium W vs Thailand W - 05/06/25" tvg-logo="https://logodix.com/logo/1691696.png" group-title="Pallavolo", Sportklub 1 Croatia
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.phpnicopr87&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - China W vs Poland W" tvg-name="13:30 Nations League Women : China W vs Poland W - 05/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/China%20W_vs_Poland%20W.png" group-title="Pallavolo", Polsat Sport 1 Poland
