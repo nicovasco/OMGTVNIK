@@ -1022,13 +1022,13 @@ https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear309-it-dash1-prd-
 
 #EXTINF:-1 tvg-id="dazn1.it" group-title="Sky;MPD",DAZN 1 (MPD)
 https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-024/stream.mpd&key_id=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769
-#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Popyrin A. vs Bergs Z." tvg-name="13:00 ATP - HERTOGENBOSCH : Popyrin A. vs Bergs Z. - 12/06/25" tvg-logo="https://resources.beecrowd.com/gallery/images/judge/login/04-min.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Popyrin A. vs Bergs Z." tvg-name="13:00 ATP - HERTOGENBOSCH : Popyrin A. vs Bergs Z. - 12/06/25" tvg-logo="https://pickdawgz.com/assets/themes/magtwo/images/elements/pickdawgz/logo-footer.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.phpnicopr87&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Medvedev D. vs Mannarino A." tvg-name="15:00 ATP - HERTOGENBOSCH : Medvedev D. vs Mannarino A. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Medvedev%20D._vs_Mannarino%20A..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Lajal M. vs Hurkacz H." tvg-name="16:00 ATP - HERTOGENBOSCH : Lajal M. vs Hurkacz H. - 12/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20230622/original/pngtree-abstract-letter-m-logo-png-image_9203650.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Lajal M. vs Hurkacz H." tvg-name="16:00 ATP - HERTOGENBOSCH : Lajal M. vs Hurkacz H. - 12/06/25" tvg-logo="https://www.sofascore.com/static/images/flags/ee.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.phpnicopr87&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - STUTTGART - Michelsen A. vs Engel J." tvg-name="11:00 ATP - STUTTGART : Michelsen A. vs Engel J. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Michelsen%20A._vs_Engel%20J..png" group-title="Atp - Stuttgart", Tennis Stream 8
@@ -1049,7 +1049,7 @@ https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.da
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Branstine C. vs Ruse G." tvg-name="11:00 WTA - HERTOGENBOSCH : Branstine C. vs Ruse G. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Branstine%20C._vs_Ruse%20G..png" group-title="Wta - Hertogenbosch", Tennis Stream 4
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Sakkari M. vs Mertens E." tvg-name="13:00 WTA - HERTOGENBOSCH : Sakkari M. vs Mertens E. - 12/06/25" tvg-logo="https://www.tipsbetting.co.uk/wp-content/uploads/2018/02/Maria-Sakkari.png" group-title="Wta - Hertogenbosch", Tennis Stream 3
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Sakkari M. vs Mertens E." tvg-name="13:00 WTA - HERTOGENBOSCH : Sakkari M. vs Mertens E. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Sakkari%20M._vs_Mertens%20E..png" group-title="Wta - Hertogenbosch", Tennis Stream 3
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.phpnicopr87&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Andreescu B. vs Sun L." tvg-name="14:30 WTA - HERTOGENBOSCH : Andreescu B. vs Sun L. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Andreescu%20B._vs_Sun%20L..png" group-title="Wta - Hertogenbosch", Tennis Stream 3
@@ -1208,10 +1208,10 @@ https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.da
 #EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Brescia" tvg-name="20:45 Lega A : Virtus Bologna vs Brescia - 12/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Virtus%20Bologna_vs_Brescia.png" group-title="Basket", Sport 3 Israel
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-142.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final (G5): Asvel vs Monaco" tvg-name="21:00 French League: Playoffs - 1/2 Final (G5): Asvel vs Monaco - 12/06/25" tvg-logo="https://s1.static-footeo.com/uploads/asvelfoot/logo__r2pzvp.png" group-title="Basket", DAZN1 France
+#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final (G5): Asvel vs Monaco" tvg-name="21:00 French League: Playoffs - 1/2 Final (G5): Asvel vs Monaco - 12/06/25" tvg-logo="https://boutiquesdelyon.com/web/Sites/asvelbasketasso.com/uploads/Saison 2020-2021/logo_asso_asvel VF-HOMME VECT 2020.png" group-title="Basket", DAZN1 France
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-15.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final (G5): Asvel vs Monaco" tvg-name="21:00 French League: Playoffs - 1/2 Final (G5): Asvel vs Monaco - 12/06/25" tvg-logo="https://s1.static-footeo.com/uploads/asvelfoot/logo__r2pzvp.png" group-title="Basket", Sport Klub 4 Croatia
+#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final (G5): Asvel vs Monaco" tvg-name="21:00 French League: Playoffs - 1/2 Final (G5): Asvel vs Monaco - 12/06/25" tvg-logo="https://boutiquesdelyon.com/web/Sites/asvelbasketasso.com/uploads/Saison 2020-2021/logo_asso_asvel VF-HOMME VECT 2020.png" group-title="Basket", Sport Klub 4 Croatia
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.phpnicopr87&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ACB - Valencia vs Tenerife" tvg-name="21:15 ACB : Valencia vs Tenerife - 12/06/25" tvg-logo="https://logodetimes.com/times/valencia/logo-valencia-4096.png" group-title="Basket", M+ #Vamos Spain
