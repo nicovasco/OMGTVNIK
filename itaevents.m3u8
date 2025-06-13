@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Borges N. vs Humbert U." tvg-name="11:00 ATP - HERTOGENBOSCH : Borges N. vs Humbert U. - 13/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/borges-logo-black-and-white.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Borges N. vs Humbert U." tvg-name="11:00 ATP - HERTOGENBOSCH : Borges N. vs Humbert U. - 13/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/borges-logo-png-transparent.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.phpnicopr87&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Diallo G. vs Khachanov K." tvg-name="12:30 ATP - HERTOGENBOSCH : Diallo G. vs Khachanov K. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Diallo%20G._vs_Khachanov%20K..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
@@ -41,7 +41,7 @@ https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.da
 #EXTINF:-1 tvg-id="WTA - LONDON - Shnaider D. vs Keys M." tvg-name="13:00 WTA - LONDON : Shnaider D. vs Keys M. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Shnaider%20D._vs_Keys%20M..png" group-title="Wta - London", Tennis Stream 1
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - LONDON - Maria T. vs Rybakina E." tvg-name="14:30 WTA - LONDON : Maria T. vs Rybakina E. - 13/06/25" tvg-logo="https://www.woonzorgweb.be/sites/default/files/logos/logo_woonzorgnetwerk maria troost.png" group-title="Wta - London", Tennis Stream 1
+#EXTINF:-1 tvg-id="WTA - LONDON - Maria T. vs Rybakina E." tvg-name="14:30 WTA - LONDON : Maria T. vs Rybakina E. - 13/06/25" tvg-logo="https://fundacionhoneybeeimpact.org/wp-content/uploads/2023/11/MARIA-T-HEXAGONO-2-1.png" group-title="Wta - London", Tennis Stream 1
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.phpnicopr87&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - LONDON - Zheng Q. vs Raducanu E." tvg-name="16:00 WTA - LONDON : Zheng Q. vs Raducanu E. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Zheng%20Q._vs_Raducanu%20E..png" group-title="Wta - London", Tennis Stream 1
@@ -296,13 +296,13 @@ https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.da
 #EXTINF:-1 tvg-id="ACB - Real Madrid vs. CB Malaga" tvg-name="21:15 ACB : Real Madrid vs. CB Malaga - 13/06/25" tvg-logo="https://logodetimes.com/times/real-madrid/logo-real-madrid-4096.png" group-title="Basket", Sport 1 Israel
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-140.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Brazil NBB - Minas Tênis Clube vs Sesi Franca Basquete" tvg-name="00:30 Brazil NBB : Minas Tênis Clube vs Sesi Franca Basquete - 13/06/25" tvg-logo="https://seeklogo.com/images/M/Minas_T__nis_Clube-logo-765FE82E8F-seeklogo.com.png" group-title="Basket", ESPN2 BR
+#EXTINF:-1 tvg-id="Brazil NBB - Minas Tênis Clube vs Sesi Franca Basquete" tvg-name="00:30 Brazil NBB : Minas Tênis Clube vs Sesi Franca Basquete - 13/06/25" tvg-logo="https://iconape.com/wp-content/png_logo_vector/minas-tenis-clube-logo.png" group-title="Basket", ESPN2 BR
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-83.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky vs Atlanta Dream Live" tvg-name="01:30 WNBA : Chicago Sky vs Atlanta Dream Live - 13/06/25" tvg-logo="https://www.swish-swish.net/wp-content/uploads/2020/01/1200px-chicago_sky_logo-svg.png" group-title="Basket", ION USA
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky vs Atlanta Dream Live" tvg-name="01:30 WNBA : Chicago Sky vs Atlanta Dream Live - 13/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Chicago%20Sky_vs_Atlanta%20Dream%20Live.png" group-title="Basket", ION USA
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-325.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Dallas Wings vs Las Vegas Aces Live" tvg-name="04:00 WNBA : Dallas Wings vs Las Vegas Aces Live - 13/06/25" tvg-logo="https://www.si.com/.image/t_share/MTcwNzg4ODQwODc1OTU5NTU4/dallas-wings-logo.png" group-title="Basket", ION USA
+#EXTINF:-1 tvg-id="WNBA - Dallas Wings vs Las Vegas Aces Live" tvg-name="04:00 WNBA : Dallas Wings vs Las Vegas Aces Live - 13/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Dallas%20Wings_vs_Las%20Vegas%20Aces%20Live.png" group-title="Basket", ION USA
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-325.phpnicopr87&redirect_stream=true
 
 #EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Oklahoma%20City%20Thunder_vs_Indiana%20Pacers.png" group-title="Basket", Home Feed
@@ -491,7 +491,7 @@ https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.da
 #EXTINF:-1 tvg-id="Golden League Women - Sweden vs. Ukraine" tvg-name="19:00 Golden League Women : Sweden vs. Ukraine - 13/06/25" tvg-logo="https://www.cdacollaborative.org/wp-content/uploads/2015/11/Government-of-Sweden-Logo.png" group-title="Pallavolo", SVT 2 Sweden
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-5.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League Women - Sweden vs. Ukraine" tvg-name="19:00 Golden League Women : Sweden vs. Ukraine - 13/06/25" tvg-logo="https://www.cdacollaborative.org/wp-content/uploads/2015/11/Government-of-Sweden-Logo.png" group-title="Pallavolo", JOJ Sport Slovakia
+#EXTINF:-1 tvg-id="Golden League Women - Sweden vs. Ukraine" tvg-name="19:00 Golden League Women : Sweden vs. Ukraine - 13/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20230104/original/pngtree-sweden-circle-flag-vector-png-image_8871946.png" group-title="Pallavolo", JOJ Sport Slovakia
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-6.phpnicopr87&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Golden League - Spain vs Croatia" tvg-name="19:30 Golden League : Spain vs Croatia - 13/06/25" tvg-logo="http://clipart-library.com/images_k/spanish-flag-transparent/spanish-flag-transparent-14.png" group-title="Pallavolo", Arena Sport 1 Croatia
@@ -506,10 +506,10 @@ https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.da
 #EXTINF:-1 tvg-id="Golden League - Slovakia vs Portugal" tvg-name="22:00 Golden League : Slovakia vs Portugal - 13/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Slovakia_vs_Portugal.png" group-title="Pallavolo", JOJ Sport Slovakia HD
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-6.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs Cuba" tvg-name="22:30 Nations League : Ukraine vs Cuba - 13/06/25" tvg-logo="https://logodix.com/logo/1626458.png" group-title="Pallavolo", Polsat Sport 2 Poland
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs Cuba" tvg-name="22:30 Nations League : Ukraine vs Cuba - 13/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20220430/original/pngtree-ukrainian-shield-png-image_7601410.png" group-title="Pallavolo", Polsat Sport 2 Poland
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs Cuba" tvg-name="22:30 Nations League : Ukraine vs Cuba - 13/06/25" tvg-logo="https://logodix.com/logo/1626458.png" group-title="Pallavolo", Sport Klub HD Croatia
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs Cuba" tvg-name="22:30 Nations League : Ukraine vs Cuba - 13/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20220430/original/pngtree-ukrainian-shield-png-image_7601410.png" group-title="Pallavolo", Sport Klub HD Croatia
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.phpnicopr87&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - Bulgaria vs Argentina" tvg-name="22:30 Nations League : Bulgaria vs Argentina - 13/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Bulgaria_vs_Argentina.png" group-title="Pallavolo", Polsat Sport 1 Poland
@@ -521,10 +521,10 @@ https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.da
 #EXTINF:-1 tvg-id="Nations League - Bulgaria vs Argentina" tvg-name="22:30 Nations League : Bulgaria vs Argentina - 13/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Bulgaria_vs_Argentina.png" group-title="Pallavolo", Sport Klub 2 Croatia
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Iran vs Slovenia" tvg-name="02:00 Nations League : Iran vs Slovenia - 13/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749722956_mirands-x-racing-santander.png" group-title="Pallavolo", Polsat Sport 2 Poland
+#EXTINF:-1 tvg-id="Nations League - Iran vs Slovenia" tvg-name="02:00 Nations League : Iran vs Slovenia - 13/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Iran_vs_Slovenia.png" group-title="Pallavolo", Polsat Sport 2 Poland
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.phpnicopr87&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Iran vs Slovenia" tvg-name="02:00 Nations League : Iran vs Slovenia - 13/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749722956_mirands-x-racing-santander.png" group-title="Pallavolo", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="Nations League - Iran vs Slovenia" tvg-name="02:00 Nations League : Iran vs Slovenia - 13/06/25" tvg-logo="https://raw.githubusercontent.com/nicovasco/OMGTVNIK/main/logos/Iran_vs_Slovenia.png" group-title="Pallavolo", Sport Klub 2 Croatia
 https://nicovasco-moth.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.phpnicopr87&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - France vs Italy" tvg-name="02:00 Nations League : France vs Italy - 13/06/25" tvg-logo="https://logodix.com/logo/408419.png" group-title="Pallavolo", Polsat Sport 1 Poland
